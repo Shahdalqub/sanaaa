@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804341612631",
+    "project_id": "sanaa-704e9",
+    "storage_bucket": "sanaa-704e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804341612631:android:c9a6c270a7b73a7a852312",
+        "android_client_info": {
+          "package_name": "p2.HSND.snaapro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpC_1hztcZe2gLK7XUvP0LIIIa2lvzT4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
